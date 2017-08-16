@@ -94,6 +94,8 @@ function creerchateau($taille){
 function creeraddonmili(){ 
 	$addon = array (
 		"Un maître d'armes",
+		"Un tanneur dont les armures de cuir sont réputées",
+		"Un maître d'armes à la retraite",
 		"Un bretteur hors pair",
 		"Une guilde de guerriers",
 		"Un centre d'entraînement militaire",
@@ -105,8 +107,11 @@ function creeraddonmili(){
 		"Une fabrique de balistes",
 		"Une forge de renom",
 		"Un tournois d'épéistes connu de part le monde", 
+		"Un tournois d'épéistes connu dans toute la région", 
 		"Un tournois d'archerie connu de part le monde",
+		"Un tournois d'archerie connu dans toute la région",
 		"Un tournois de cavalerie connu de part le monde", 
+		"Un tournois de cavalerie connu dans toute la région",
 		"Un festival de joutes diverses où chacun peut prouver sa bravoure",
 		"Une joute équestre",
 		"Un facteur d'arcs reconnu pour ses créations",

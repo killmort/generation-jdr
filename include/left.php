@@ -46,7 +46,7 @@ onMouseOver="document.img_3.src='images/mail.png';" onMouseOut="document.img_3.s
 </ul>
 <h3>Mondes Post-apo</h3>
 <ul>
-<li><a href="#">Bientôt</a></li>
+<li><a href="index.php?page=apocalypse">Apocalypse (béta)</a></li>
 </ul>
 
 
